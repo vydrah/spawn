@@ -1,0 +1,42 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://adaspawn.files.wordpress.com/2020/11/spawn.png",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Carinthia, Austria",
+        "social": {
+            "telegram_handle": "adaspawn",
+            "discord_handle": "SPAWNPOOL",
+        },
+  
+        "about": {
+            "me": "Crypto Enthusiast",
+            "server": "Hosted on an Intel i3 Nuc from home.",
+        },
+    },
+    "my-pool-ids": {
+        "0": "70dd293f78887034926b8b06779137e7f2460b208b8aa3fb3c22fa31"
+    },
+    "telegram-admin-handle": {
+        "0": "@vydrah"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
+}
