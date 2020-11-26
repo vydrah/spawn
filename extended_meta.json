@@ -2,7 +2,7 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://adaspawn.files.wordpress.com/2020/11/spawn.png",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "url_png_logo": "https://adaspawn.files.wordpress.com/2020/11/spawn2.png",
         "location": "Carinthia, Austria",
         "social": {
             "telegram_handle": "adaspawn",
@@ -11,7 +11,7 @@
   
         "about": {
             "me": "Crypto Enthusiast",
-            "server": "Hosted on an Intel i3 Nuc from home.",
+            "server": "Hosted from Home with an Intel NUC to help .",
         },
     },
     "my-pool-ids": {
