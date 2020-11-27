@@ -1,5 +1,4 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://adaspawn.files.wordpress.com/2020/11/spawn.png",
         "url_png_logo": "https://adaspawn.files.wordpress.com/2020/11/spawn2.png",
