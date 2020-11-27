@@ -6,21 +6,15 @@
         "location": "Carinthia, Austria",
         "social": {
             "telegram_handle": "https://t.me/adaspawn",
-            "discord_handle": "SPAWNPOOL",
-        },
+            "discord_handle": "SPAWNPOOL"},
   
         "about": {
             "me": "Crypto Enthusiast",
-            "server": "Tiny Poolopteration hosted from home to help the project with network and decentralization.",
-        },
-    },
+            "server": "Tiny Poolopteration hosted from home to help the project with network and decentralization."},
     "my-pool-ids": {
         "0": "70dd293f78887034926b8b06779137e7f2460b208b8aa3fb3c22fa31"
     },
     "telegram-admin-handle": {
-        "0": "@vydrah"
-    },
-   
-        }
+         "me" : "@vydrah"}
+            }
     }
-}
