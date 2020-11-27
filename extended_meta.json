@@ -5,13 +5,13 @@
         "url_png_logo": "https://adaspawn.files.wordpress.com/2020/11/spawn2.png",
         "location": "Carinthia, Austria",
         "social": {
-            "telegram_handle": "adaspawn",
+            "telegram_handle": "https://t.me/adaspawn",
             "discord_handle": "SPAWNPOOL",
         },
   
         "about": {
             "me": "Crypto Enthusiast",
-            "server": "Hosted from Home with an Intel NUC to help .",
+            "server": "Tiny Poolopteration hosted from home to help the project with network and decentralization.",
         },
     },
     "my-pool-ids": {
@@ -20,23 +20,7 @@
     "telegram-admin-handle": {
         "0": "@vydrah"
     },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
+   
         }
     }
 }
