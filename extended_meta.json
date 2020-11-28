@@ -4,12 +4,12 @@
         "url_png_logo": "https://adaspawn.files.wordpress.com/2020/11/spawn2.png",
         "location": "Carinthia, Austria",
         "social": {
-            "telegram_handle": "https://t.me/adaspawn",
-            "discord_handle": "SPAWNPOOL"},
+            "telegram_handle": "adaspawn",
+            "twitter_handle": "Spawnpool2"},
   
         "about": {
-            "me": "Crypto Enthusiast",
-            "server": "Tiny Poolopteration hosted from home to help the project with network and decentralization."},
+            "me": "Tiny Stakepool Operation from Austria.",
+            "server": "1x Relaynode 1x Corenode each hosted on an NUC"},
     "my-pool-ids": {
         "0": "70dd293f78887034926b8b06779137e7f2460b208b8aa3fb3c22fa31"
     },
